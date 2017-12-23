@@ -1,0 +1,12 @@
+{
+    "name": "evgy/php-cloudfront-invalidator",
+    "description": "Simple php cloudfront indalidator (With composer.json)",
+    "license": "GPL-2.0+",
+    "authors": [
+        {
+            "name": "freaker2k7",
+            "email": "thenetfreaker@gmail.com"
+        }
+    ],
+    "require": {}
+}
